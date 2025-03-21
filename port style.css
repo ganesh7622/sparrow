@@ -221,12 +221,18 @@ button a:hover{
 }
 .projects{
     margin-top: 15%;
+    display: flex;
+    flex-wrap: wrap;
 }
 .projects1{
     margin-top: 15%;
+    display: flex;
+    flex-wrap: wrap;
 }
 .projects2{
     margin-top: 15%;
+    display: flex;
+    flex-wrap: wrap;
 }
 .lorem3{
     width: 300px;
